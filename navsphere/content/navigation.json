@@ -499,7 +499,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765942859775_3v2c2q3hk",
+          "title": "Koyso - PC Games Free Download",
+          "href": "https://koyso.com/",
+          "description": "Free pre-installed PC games for direct download. Simply download &amp; play.",
+          "icon": "/assets/favicon_1765942838930.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
