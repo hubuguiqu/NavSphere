@@ -96,6 +96,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=hl.zdic.net",
           "enabled": true
+        },
+        {
+          "id": "site_1765942101596_35ta20j01",
+          "title": "易通万年历",
+          "href": "http://39.99.215.225/",
+          "description": "访问 39.99.215.225",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=39.99.215.225",
+          "enabled": true
         }
       ],
       "subCategories": []
