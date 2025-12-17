@@ -377,6 +377,14 @@
           "description": "访问 flowus.cn",
           "icon": "/assets/favicon_1765942148705.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942206011_e1mx9yjsd",
+          "title": "siddham悉昙学会",
+          "href": "http://siddham.cn",
+          "description": "",
+          "icon": "/assets/favicon_1765942189175.png",
+          "enabled": true
         }
       ],
       "subCategories": []
