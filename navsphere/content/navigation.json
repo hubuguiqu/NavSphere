@@ -64,6 +64,14 @@
           "description": "访问 etext.fgs.org.tw",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=etext.fgs.org.tw",
           "enabled": true
+        },
+        {
+          "id": "site_1765942009748_ubqo9i5v4",
+          "title": "佛历",
+          "href": "https://www.juewu.org/foli.html",
+          "description": "访问 www.juewu.org",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.juewu.org",
+          "enabled": true
         }
       ],
       "subCategories": []
