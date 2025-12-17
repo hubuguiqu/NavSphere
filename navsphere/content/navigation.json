@@ -171,6 +171,14 @@
           "description": "访问 ",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=",
           "enabled": true
+        },
+        {
+          "id": "site_1765940842479_n8mhyr0cp",
+          "title": "1p",
+          "href": "http://127.0.0.1:39087/e029892ec6",
+          "description": "访问 127.0.0.1",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=127.0.0.1",
+          "enabled": true
         }
       ],
       "subCategories": []
