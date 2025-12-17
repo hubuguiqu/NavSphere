@@ -465,6 +465,14 @@
           "description": "梵明院(Brahmavidyāvihāra)于阳历2018年12月25日成立。主要致力于梵语文献电子化整理传承与研究，为普通大众提供阅读梵语原典文献的便利性，促进中印哲学思想文化交流研究。",
           "icon": "/assets/favicon_1765942441219.jpg",
           "enabled": true
+        },
+        {
+          "id": "site_1765942476073_zxitpwslw",
+          "title": "Fanfoyan",
+          "href": "https://fanfoyan.com/",
+          "description": "访问 fanfoyan.com",
+          "icon": "/assets/favicon_1765942465620.png",
+          "enabled": true
         }
       ],
       "subCategories": []
