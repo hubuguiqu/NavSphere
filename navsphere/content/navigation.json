@@ -617,7 +617,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765943030565_09ntrv4oa",
+          "title": "Paragraph",
+          "href": "https://mirror.xyz/",
+          "description": "Where writers share, grow, and get paid — one post at a time.",
+          "icon": "/assets/favicon_1765943018183.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
