@@ -68,14 +68,6 @@
           "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
           "icon": "/assets/images/logos/shots.webp",
           "enabled": true
-        },
-        {
-          "id": "1761724833829",
-          "title": "Hacker News",
-          "href": "https://news.ycombinator.com/",
-          "description": "",
-          "icon": "/assets/favicon_1761724837449.svg",
-          "enabled": true
         }
       ],
       "subCategories": [],
