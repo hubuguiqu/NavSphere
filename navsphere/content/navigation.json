@@ -540,6 +540,14 @@
           "description": "访问 hey-nature.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=hey-nature.com",
           "enabled": true
+        },
+        {
+          "id": "site_1765946109239_2vd6v6yu2",
+          "title": "unionyogaayurveda.com.sg",
+          "href": "https://unionyogaayurveda.com.sg/lp/page6/",
+          "description": "",
+          "icon": "/assets/favicon_1765946100811.png",
+          "enabled": true
         }
       ],
       "subCategories": []
