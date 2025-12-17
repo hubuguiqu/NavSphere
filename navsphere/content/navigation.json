@@ -481,6 +481,14 @@
           "description": "访问 fanfoyan.com",
           "icon": "/assets/favicon_1765942465620.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942647072_0dyi68ham",
+          "title": "Buddha佛乐",
+          "href": "http://buddha.goodweb.net.cn/music/music01.htm",
+          "description": "访问 buddha.goodweb.net.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=buddha.goodweb.net.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
