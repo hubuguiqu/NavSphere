@@ -417,6 +417,14 @@
           "description": "",
           "icon": "/assets/favicon_1765942308939.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942336298_gjrlr3e53",
+          "title": "Qr61",
+          "href": "http://qr61.cn/of7LLE/q4tKVrnhttp://bsweb.mxrcorp.cn/cangjingge/download.html",
+          "description": "访问 qr61.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=qr61.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
