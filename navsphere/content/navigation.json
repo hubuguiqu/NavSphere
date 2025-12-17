@@ -575,6 +575,14 @@
           "description": "CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics. Solve games, code AI bots, learn from your peers, have fun.",
           "icon": "/assets/favicon_1765942815690.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942941342_lnd3968wp",
+          "title": "Codewars - Achieve mastery through coding practice and developer mentorship",
+          "href": "https://www.codewars.com/",
+          "description": "A coding practice website for all programming levels – Join a community of over 3 million developers and improve your coding skills in over 55 programming languages!",
+          "icon": "/assets/favicon_1765942935114.png",
+          "enabled": true
         }
       ],
       "subCategories": []
