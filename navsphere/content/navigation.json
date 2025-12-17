@@ -48,6 +48,14 @@
           "description": "",
           "icon": "/assets/favicon_1765939932717.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1765939982071_6mp8dowrp",
+          "title": "Sink",
+          "href": "https://sink.renzhe.xyz/",
+          "description": "访问 sink.renzhe.xyz",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=sink.renzhe.xyz",
+          "enabled": true
         }
       ],
       "subCategories": [
