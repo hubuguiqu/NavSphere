@@ -128,6 +128,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=xu.foyi.art",
           "enabled": true
+        },
+        {
+          "id": "site_1765940346652_sekvmcjtt",
+          "title": "flatnotes",
+          "href": "https://md.foyi.art",
+          "description": "",
+          "icon": "/assets/favicon_1765940342070.png",
+          "enabled": true
         }
       ],
       "subCategories": [
