@@ -533,6 +533,14 @@
           "description": "访问 www.siddhiyoga.com",
           "icon": "/assets/favicon_1765943139308.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765943650303_62qd6pc35",
+          "title": "m.sweetkolkata.com",
+          "href": "https://m.sweetkolkata.com/best-online-ayurveda-courses/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.sweetkolkata.com",
+          "enabled": true
         }
       ],
       "subCategories": []
