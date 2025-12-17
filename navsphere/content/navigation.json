@@ -80,6 +80,14 @@
           "description": "访问 ttyd.foyi.art",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ttyd.foyi.art",
           "enabled": true
+        },
+        {
+          "id": "site_1765940174309_c3pr9vglw",
+          "title": "File Browser",
+          "href": "https://file.foyi.art",
+          "description": "",
+          "icon": "/assets/favicon_1765940166633.svg",
+          "enabled": true
         }
       ],
       "subCategories": [
