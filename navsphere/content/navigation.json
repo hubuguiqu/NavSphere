@@ -72,6 +72,14 @@
           "description": "访问 www.juewu.org",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.juewu.org",
           "enabled": true
+        },
+        {
+          "id": "site_1765942027844_qerdwosuv",
+          "title": "即时翻译文本&amp;完整的文档文件。为个人和团队提供准确的翻译。每天有数百万人使用DeepL进行翻译。",
+          "href": "https://www.deepl.com/zh/translator-mobile",
+          "description": "DeepL翻译：全世界最准确的翻译",
+          "icon": "/assets/favicon_1765942022972.png",
+          "enabled": true
         }
       ],
       "subCategories": []
