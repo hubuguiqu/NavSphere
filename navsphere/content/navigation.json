@@ -599,6 +599,14 @@
           "description": "Learn typed code through a programming game. Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites.",
           "icon": "/assets/favicon_1765942974015.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942996557_df59qdmj4",
+          "title": "The SQL Murder Mystery",
+          "href": "https://mystery.knightlab.com/",
+          "description": "Use SQL queries to solve the murder mystery. Suitable for beginners or experienced SQL sleuths.",
+          "icon": "/assets/favicon_1765942990879.png",
+          "enabled": true
         }
       ],
       "subCategories": []
