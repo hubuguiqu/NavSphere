@@ -649,6 +649,14 @@
           "description": "访问 easytier.cn",
           "icon": "/assets/favicon_1765943090206.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765943122701_e2m0fw3wi",
+          "title": "Googiehost",
+          "href": "https://googiehost.com/zh-CN/blog/%E6%9C%80%E4%BD%B3%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96VPN/",
+          "description": "访问 googiehost.com",
+          "icon": "/assets/favicon_1765943115273.png",
+          "enabled": true
         }
       ],
       "subCategories": []
