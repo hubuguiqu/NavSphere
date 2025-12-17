@@ -457,6 +457,14 @@
           "description": "访问 www.sanskrit-input.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sanskrit-input.com",
           "enabled": true
+        },
+        {
+          "id": "site_1765942451161_g3xiggtoh",
+          "title": "梵明院",
+          "href": "https://www.brhvid.com",
+          "description": "梵明院(Brahmavidyāvihāra)于阳历2018年12月25日成立。主要致力于梵语文献电子化整理传承与研究，为普通大众提供阅读梵语原典文献的便利性，促进中印哲学思想文化交流研究。",
+          "icon": "/assets/favicon_1765942441219.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []
