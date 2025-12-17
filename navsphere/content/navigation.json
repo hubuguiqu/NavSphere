@@ -556,6 +556,14 @@
           "description": "访问 www.rendejiedu.com",
           "icon": "/assets/favicon_1765946125696.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765946159022_pew7qfx1d",
+          "title": "Nihaisha",
+          "href": "http://www.nihaisha.net/",
+          "description": "访问 www.nihaisha.net",
+          "icon": "/assets/favicon_1765946151036.png",
+          "enabled": true
         }
       ],
       "subCategories": []
