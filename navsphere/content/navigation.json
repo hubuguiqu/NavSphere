@@ -525,6 +525,14 @@
           "description": "3D人體經絡穴道模型提供線上免費使用，可直接點選穴道顯示基本資訊及國際代碼，方便居家保健養生使用，方便針灸、按摩指壓、推拿、拔罐、刮痧、拍打拉筋使用。",
           "icon": "/assets/favicon_1765942706196.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765943145764_btqwt148v",
+          "title": "Siddhiyoga",
+          "href": "https://www.siddhiyoga.com/zh-CN/",
+          "description": "访问 www.siddhiyoga.com",
+          "icon": "/assets/favicon_1765943139308.png",
+          "enabled": true
         }
       ],
       "subCategories": []
