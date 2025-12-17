@@ -393,6 +393,14 @@
           "description": "访问 www.learn-buddhamap.net",
           "icon": "/assets/favicon_1765942220641.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942267818_2nx3fp3gt",
+          "title": "宝海bbs",
+          "href": "http://www.baohaibbs.com.cn/forum.php?mobile=2",
+          "description": "",
+          "icon": "/assets/favicon_1765942244238.png",
+          "enabled": true
         }
       ],
       "subCategories": []
