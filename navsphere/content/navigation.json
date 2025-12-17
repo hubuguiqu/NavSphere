@@ -591,6 +591,14 @@
           "description": "CodeMonkey is a leading coding for kids program. Through its award-winning courses, millions of students learn how to code in real programming languages.",
           "icon": "/assets/favicon_1765942954132.gif",
           "enabled": true
+        },
+        {
+          "id": "site_1765942979166_4gr4tx42w",
+          "title": "CodeCombat - Coding games to learn Python and JavaScript",
+          "href": "https://codecombat.com/",
+          "description": "Learn typed code through a programming game. Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites.",
+          "icon": "/assets/favicon_1765942974015.png",
+          "enabled": true
         }
       ],
       "subCategories": []
