@@ -88,6 +88,14 @@
           "description": "",
           "icon": "/assets/favicon_1765940166633.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1765940194629_3mpxl8tuc",
+          "title": "PanSou 盘搜",
+          "href": "https://pans.foyi.art",
+          "description": "",
+          "icon": "/assets/favicon_1765940190130.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
