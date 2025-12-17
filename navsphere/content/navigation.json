@@ -203,6 +203,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=lu.renzhe.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1765940993806_eegbiswb8",
+          "title": "Wrt",
+          "href": "http://wrt.renzhe.xyz",
+          "description": "访问 wrt.renzhe.xyz",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wrt.renzhe.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
