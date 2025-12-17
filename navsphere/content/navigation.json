@@ -1217,6 +1217,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1765941440956",
+      "title": "词典日历",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
