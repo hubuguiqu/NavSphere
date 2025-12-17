@@ -120,7 +120,16 @@
       "icon": "Box",
       "description": "开发者工具，工具包",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1765936090445",
+          "title": "P.renzhe",
+          "href": "http://p.renzhe.xyz/so74ny5vaio17",
+          "description": "访问 p.renzhe.xyz",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=p.renzhe.xyz",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
