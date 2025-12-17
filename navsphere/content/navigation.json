@@ -259,7 +259,7 @@
       "title": "本地",
       "icon": "FolderKanban",
       "description": "",
-      "enabled": true,
+      "enabled": false,
       "items": [
         {
           "id": "site_1765940811584_h34pnhwve",
