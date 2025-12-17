@@ -187,6 +187,14 @@
           "description": "访问 192.168.1.1",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.1.1",
           "enabled": true
+        },
+        {
+          "id": "site_1765940901519_dtvlo6ohx",
+          "title": "openlist内",
+          "href": "192.168.1.1:5244",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
