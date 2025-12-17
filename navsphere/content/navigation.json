@@ -150,6 +150,15 @@
       ]
     },
     {
+      "id": "1765940438570",
+      "title": "本地",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1765940423877",
       "title": "自由行",
       "icon": "FolderOpen",
@@ -1110,15 +1119,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1765940438570",
-      "title": "本地",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
