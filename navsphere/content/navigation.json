@@ -558,6 +558,14 @@
           "description": "吳語學堂是一個面向廣泛受眾、含有豐富及有益內容個吳語學習教育網站。包括吳語區各地方言字音、詞彙個免費在線吳語詞典",
           "icon": "/assets/favicon_1765942797744.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942826480_oflhmkrq0",
+          "title": "Coding Games and Programming Challenges to Code Better",
+          "href": "https://www.codingame.com/start/",
+          "description": "CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics. Solve games, code AI bots, learn from your peers, have fun.",
+          "icon": "/assets/favicon_1765942815690.png",
+          "enabled": true
         }
       ],
       "subCategories": []
