@@ -369,7 +369,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765942175507_pqm0ziy7u",
+          "title": "梵咒学习",
+          "href": "https://flowus.cn/share/32ab0958-b2c1-47ec-a7a0-e9a597d04774",
+          "description": "访问 flowus.cn",
+          "icon": "/assets/favicon_1765942148705.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
