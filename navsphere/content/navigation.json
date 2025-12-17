@@ -409,6 +409,14 @@
           "description": "访问 www.tangmi.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tangmi.com",
           "enabled": true
+        },
+        {
+          "id": "site_1765942315634_9031p8mvx",
+          "title": "原始佛教會 Original Buddhism Society",
+          "href": "https://www.arahant.org",
+          "description": "",
+          "icon": "/assets/favicon_1765942308939.png",
+          "enabled": true
         }
       ],
       "subCategories": []
