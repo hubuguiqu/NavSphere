@@ -641,6 +641,14 @@
           "description": "The SocialFi chain.",
           "icon": "/assets/favicon_1765943070986.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1765943097709_c03saeeim",
+          "title": "Easytier",
+          "href": "https://easytier.cn/",
+          "description": "访问 easytier.cn",
+          "icon": "/assets/favicon_1765943090206.png",
+          "enabled": true
         }
       ],
       "subCategories": []
