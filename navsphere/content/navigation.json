@@ -266,6 +266,14 @@
           "description": "访问 xng.renzhe.xyz",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=xng.renzhe.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1765974339846_ikoiz6n7e",
+          "title": "Lobe",
+          "href": "https://lobe.renzhe.xyz",
+          "description": "访问 lobe.renzhe.xyz",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lobe.renzhe.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
