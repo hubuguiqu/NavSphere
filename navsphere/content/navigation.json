@@ -195,6 +195,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1765940972854_fps7vlha2",
+          "title": "lucky",
+          "href": "http://lu.renzhe.xyz",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lu.renzhe.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
