@@ -258,6 +258,14 @@
           "description": "访问 myip.renzhe.xyz",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=myip.renzhe.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1765974311130_vmro2w0l4",
+          "title": "Xng",
+          "href": "https://xng.renzhe.xyz",
+          "description": "访问 xng.renzhe.xyz",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xng.renzhe.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
