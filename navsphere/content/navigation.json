@@ -163,7 +163,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765940811584_h34pnhwve",
+          "title": "codecombat",
+          "href": "0.0.0.0:3020",
+          "description": "访问 ",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
