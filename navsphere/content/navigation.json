@@ -48,6 +48,14 @@
           "description": "访问 www.zdic.net",
           "icon": "/assets/favicon_1765941912060.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765941941309_bsl3a7vh8",
+          "title": "慧译通 - 佛教AI翻译器 | Buddhist AI Translator",
+          "href": "https://xr843.github.io/Buddhist-AI-Translator/",
+          "description": "慧译通 - 专业佛教文献AI翻译平台。支持梵文、巴利文、藏文、文言文等18种语言互译，内置50+佛教术语数据库，DeepSeek AI驱动。Buddhist AI Translator with Sanskrit, Pali, Tibetan support.",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xr843.github.io",
+          "enabled": true
         }
       ],
       "subCategories": []
