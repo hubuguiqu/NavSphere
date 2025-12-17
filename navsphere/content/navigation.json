@@ -40,6 +40,14 @@
           "description": "",
           "icon": "/assets/favicon_1765941754295.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765941923429_ot1mv8i5f",
+          "title": "汉典",
+          "href": "https://www.zdic.net/",
+          "description": "访问 www.zdic.net",
+          "icon": "/assets/favicon_1765941912060.png",
+          "enabled": true
         }
       ],
       "subCategories": []
