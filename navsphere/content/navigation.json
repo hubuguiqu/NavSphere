@@ -449,6 +449,14 @@
           "description": "访问 www.sutra.org.tw",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sutra.org.tw",
           "enabled": true
+        },
+        {
+          "id": "site_1765942427563_8ugsnsn19",
+          "title": "Sanskrit-input",
+          "href": "http://www.sanskrit-input.com",
+          "description": "访问 www.sanskrit-input.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sanskrit-input.com",
+          "enabled": true
         }
       ],
       "subCategories": []
