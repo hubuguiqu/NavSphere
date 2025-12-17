@@ -633,6 +633,14 @@
           "description": "访问 peepeth.com",
           "icon": "/assets/favicon_1765943055483.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765943075958_mptg8af1j",
+          "title": "Lens",
+          "href": "https://www.lens.xyz/",
+          "description": "The SocialFi chain.",
+          "icon": "/assets/favicon_1765943070986.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
