@@ -179,6 +179,14 @@
           "description": "访问 127.0.0.1",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=127.0.0.1",
           "enabled": true
+        },
+        {
+          "id": "site_1765940871192_akz908cgy",
+          "title": "newifi",
+          "href": "http://192.168.1.1",
+          "description": "访问 192.168.1.1",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.1.1",
+          "enabled": true
         }
       ],
       "subCategories": []
