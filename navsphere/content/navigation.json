@@ -40,6 +40,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=drop.foyi.art",
           "enabled": true
+        },
+        {
+          "id": "site_1765939940023_lfpt0l48t",
+          "title": "Alist for OpenWRT",
+          "href": "https://ol.foyi.art",
+          "description": "",
+          "icon": "/assets/favicon_1765939932717.svg",
+          "enabled": true
         }
       ],
       "subCategories": [
