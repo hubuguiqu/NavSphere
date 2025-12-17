@@ -433,6 +433,14 @@
           "description": "",
           "icon": "/assets/favicon_1765942350706.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942387881_1fbp7b2yb",
+          "title": "药师坛城",
+          "href": "http://www.yaoshitancheng.com",
+          "description": "访问 www.yaoshitancheng.com",
+          "icon": "/assets/favicon_1765942368914.png",
+          "enabled": true
         }
       ],
       "subCategories": []
