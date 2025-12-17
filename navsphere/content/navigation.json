@@ -120,6 +120,14 @@
           "description": "访问 jiasu.renzhe.xyz",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=jiasu.renzhe.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1765940326356_9s4jrz5su",
+          "title": "3X-UI",
+          "href": "https://xu.foyi.art/Wo3Nl58w2Q7C2PJVu9",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xu.foyi.art",
+          "enabled": true
         }
       ],
       "subCategories": [
