@@ -615,6 +615,14 @@
           "description": "Use SQL queries to solve the murder mystery. Suitable for beginners or experienced SQL sleuths.",
           "icon": "/assets/favicon_1765942990879.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765943182268_7dodr1xmv",
+          "title": "远程学习大学 - 成人学位课程 在线",
+          "href": "https://www.bircham.cn/",
+          "description": "远程学习大学 - BIU是一个非赢利的远程学习高等教育机构。BIU提供学士、硕士和博士学位,也包括继续教育和专业文凭。",
+          "icon": "/assets/favicon_1765943158335.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
