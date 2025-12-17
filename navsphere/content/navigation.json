@@ -196,6 +196,14 @@
           "description": "This is a tool for generating VLESS protocol configurations. Give us a star on GitHub https://github.com/3Kmfi6HP/EDtunnel if you found it useful!",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=pro.bore.cloudns.org",
           "enabled": true
+        },
+        {
+          "id": "site_1765940738064_vyxv6oqow",
+          "title": "Chromego",
+          "href": "http://chromego.renzhe.xyz/",
+          "description": "访问 chromego.renzhe.xyz",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=chromego.renzhe.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
