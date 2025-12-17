@@ -441,6 +441,14 @@
           "description": "访问 www.yaoshitancheng.com",
           "icon": "/assets/favicon_1765942368914.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942407121_jolfaui9m",
+          "title": "Sutra",
+          "href": "http://www.sutra.org.tw/e-lib/often.html",
+          "description": "访问 www.sutra.org.tw",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sutra.org.tw",
+          "enabled": true
         }
       ],
       "subCategories": []
