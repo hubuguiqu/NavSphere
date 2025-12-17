@@ -625,6 +625,14 @@
           "description": "Where writers share, grow, and get paid — one post at a time.",
           "icon": "/assets/favicon_1765943018183.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1765943057685_mz43m41n2",
+          "title": "Peepeth",
+          "href": "https://peepeth.com/",
+          "description": "访问 peepeth.com",
+          "icon": "/assets/favicon_1765943055483.png",
+          "enabled": true
         }
       ],
       "subCategories": []
