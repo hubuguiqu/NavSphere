@@ -542,6 +542,14 @@
           "description": "访问 www.ichingstar.cn",
           "icon": "/assets/favicon_1765942734804.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942778975_dqktfq9dt",
+          "title": "古籍",
+          "href": "https://gj.cool/",
+          "description": "访问 gj.cool",
+          "icon": "/assets/favicon_1765942767513.png",
+          "enabled": true
         }
       ],
       "subCategories": []
