@@ -72,6 +72,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=pic.foyi.art",
           "enabled": true
+        },
+        {
+          "id": "site_1765940112638_r15k8lpsa",
+          "title": "Ttyd",
+          "href": "https://ttyd.foyi.art/",
+          "description": "访问 ttyd.foyi.art",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ttyd.foyi.art",
+          "enabled": true
         }
       ],
       "subCategories": [
