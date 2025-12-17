@@ -385,6 +385,14 @@
           "description": "",
           "icon": "/assets/favicon_1765942189175.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942228378_bo08fuj7b",
+          "title": "Learn-buddhamap",
+          "href": "https://www.learn-buddhamap.net",
+          "description": "访问 www.learn-buddhamap.net",
+          "icon": "/assets/favicon_1765942220641.png",
+          "enabled": true
         }
       ],
       "subCategories": []
