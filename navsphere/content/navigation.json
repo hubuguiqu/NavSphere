@@ -56,6 +56,14 @@
           "description": "慧译通 - 专业佛教文献AI翻译平台。支持梵文、巴利文、藏文、文言文等18种语言互译，内置50+佛教术语数据库，DeepSeek AI驱动。Buddhist AI Translator with Sanskrit, Pali, Tibetan support.",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=xr843.github.io",
           "enabled": true
+        },
+        {
+          "id": "site_1765941982836_ntf9s2o2l",
+          "title": "佛光大词典",
+          "href": "https://etext.fgs.org.tw/sutra_02.aspx",
+          "description": "访问 etext.fgs.org.tw",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=etext.fgs.org.tw",
+          "enabled": true
         }
       ],
       "subCategories": []
