@@ -32,6 +32,14 @@
           "description": "访问 p.renzhe.xyz",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=p.renzhe.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1765939851200_w89ceoiq4",
+          "title": "drop",
+          "href": "http://drop.foyi.art",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=drop.foyi.art",
+          "enabled": true
         }
       ],
       "subCategories": [
