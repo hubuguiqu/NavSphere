@@ -188,6 +188,14 @@
           "description": "访问 bpb.renzhe.xyz",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=bpb.renzhe.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1765940719344_v9iv4tkd6",
+          "title": "pro.bore",
+          "href": "https://pro.bore.cloudns.org/d59aabb2-478d-4040-a17d-42775d98a201",
+          "description": "This is a tool for generating VLESS protocol configurations. Give us a star on GitHub https://github.com/3Kmfi6HP/EDtunnel if you found it useful!",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pro.bore.cloudns.org",
+          "enabled": true
         }
       ],
       "subCategories": []
