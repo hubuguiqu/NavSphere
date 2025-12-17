@@ -27,6 +27,24 @@
       "enabled": true
     },
     {
+      "id": "1765941440956",
+      "title": "词典日历",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1765941769406_8hodnv4vs",
+          "title": "道教大辭典聯合檢索",
+          "href": "http://www.homeinmists.com/DaoD/search.html",
+          "description": "",
+          "icon": "/assets/favicon_1765941754295.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1735265493940",
       "title": "自建",
       "icon": "Box",
@@ -1225,24 +1243,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1765941440956",
-      "title": "词典日历",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1765941769406_8hodnv4vs",
-          "title": "道教大辭典聯合檢索",
-          "href": "http://www.homeinmists.com/DaoD/search.html",
-          "description": "",
-          "icon": "/assets/favicon_1765941754295.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     },
     {
       "id": "1765941458022",
