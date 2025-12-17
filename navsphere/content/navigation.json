@@ -204,6 +204,14 @@
           "description": "访问 chromego.renzhe.xyz",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=chromego.renzhe.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1765940761448_wia278p2f",
+          "title": "Ppp",
+          "href": "https://ppp.foyi.art/panel",
+          "description": "访问 ppp.foyi.art",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ppp.foyi.art",
+          "enabled": true
         }
       ],
       "subCategories": []
