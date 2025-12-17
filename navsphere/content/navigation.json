@@ -425,6 +425,14 @@
           "description": "访问 qr61.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=qr61.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1765942355234_7rieyzq9e",
+          "title": "佛陀教育基金會",
+          "href": "http://www.budaedu.org",
+          "description": "",
+          "icon": "/assets/favicon_1765942350706.png",
+          "enabled": true
         }
       ],
       "subCategories": []
