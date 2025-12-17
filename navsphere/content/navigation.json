@@ -64,6 +64,14 @@
           "description": "访问 n.renzhe.xyz",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=n.renzhe.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1765940059886_3a65q2cxn",
+          "title": "仪表板 | 丹艺天画",
+          "href": "https://pic.foyi.art/dashboard",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pic.foyi.art",
+          "enabled": true
         }
       ],
       "subCategories": [
