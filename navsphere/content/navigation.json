@@ -1279,6 +1279,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1765941879598",
+      "title": "在线工具",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
