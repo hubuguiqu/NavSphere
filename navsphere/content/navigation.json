@@ -550,6 +550,14 @@
           "description": "访问 gj.cool",
           "icon": "/assets/favicon_1765942767513.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942803528_plndq8pjr",
+          "title": "吳語學堂",
+          "href": "https://www.wugniu.com",
+          "description": "吳語學堂是一個面向廣泛受眾、含有豐富及有益內容個吳語學習教育網站。包括吳語區各地方言字音、詞彙個免費在線吳語詞典",
+          "icon": "/assets/favicon_1765942797744.png",
+          "enabled": true
         }
       ],
       "subCategories": []
