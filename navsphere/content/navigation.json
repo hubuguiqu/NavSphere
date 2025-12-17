@@ -104,6 +104,14 @@
           "description": "访问 39.99.215.225",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=39.99.215.225",
           "enabled": true
+        },
+        {
+          "id": "site_1765942128723_1cn9m6lmq",
+          "title": "Cbetaonline",
+          "href": "https://cbetaonline.cn/search/?openAdvancedSearchForm=yes&lang=zh",
+          "description": "访问 cbetaonline.cn",
+          "icon": "/assets/favicon_1765942121093.png",
+          "enabled": true
         }
       ],
       "subCategories": []
