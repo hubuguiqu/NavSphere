@@ -104,6 +104,14 @@
           "description": "访问 ssh.foyi.art",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ssh.foyi.art",
           "enabled": true
+        },
+        {
+          "id": "site_1765940252364_yq1birh24",
+          "title": "p.foyi",
+          "href": "https://p.foyi.art",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=p.foyi.art",
+          "enabled": true
         }
       ],
       "subCategories": [
