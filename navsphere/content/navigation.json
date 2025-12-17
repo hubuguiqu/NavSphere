@@ -401,6 +401,14 @@
           "description": "",
           "icon": "/assets/favicon_1765942244238.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942295291_p12dwikef",
+          "title": "Tangmi唐密",
+          "href": "http://www.tangmi.com/guru_photo/konghai2.htm",
+          "description": "访问 www.tangmi.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tangmi.com",
+          "enabled": true
         }
       ],
       "subCategories": []
