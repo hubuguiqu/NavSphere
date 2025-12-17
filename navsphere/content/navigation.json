@@ -508,7 +508,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765942715767_enye0mi7h",
+          "title": "3D人體經絡穴道模型線上免費使用(2025年) - 雲端中醫養生",
+          "href": "https://cloudtcm.com/acupoint/3d",
+          "description": "3D人體經絡穴道模型提供線上免費使用，可直接點選穴道顯示基本資訊及國際代碼，方便居家保健養生使用，方便針灸、按摩指壓、推拿、拔罐、刮痧、拍打拉筋使用。",
+          "icon": "/assets/favicon_1765942706196.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
