@@ -1232,7 +1232,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765941769406_8hodnv4vs",
+          "title": "道教大辭典聯合檢索",
+          "href": "http://www.homeinmists.com/DaoD/search.html",
+          "description": "",
+          "icon": "/assets/favicon_1765941754295.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
