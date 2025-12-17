@@ -172,7 +172,16 @@
       "icon": "FolderOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765940652282_dj3wapzwc",
+          "title": "Sn",
+          "href": "http://sn.renzhe.xyz",
+          "description": "访问 sn.renzhe.xyz",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=sn.renzhe.xyz",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
