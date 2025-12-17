@@ -583,6 +583,14 @@
           "description": "A coding practice website for all programming levels – Join a community of over 3 million developers and improve your coding skills in over 55 programming languages!",
           "icon": "/assets/favicon_1765942935114.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942958846_rsnt5fcn1",
+          "title": "Coding for Kids | Game-Based Programming | School &amp; Home Use",
+          "href": "https://www.codemonkey.com/",
+          "description": "CodeMonkey is a leading coding for kids program. Through its award-winning courses, millions of students learn how to code in real programming languages.",
+          "icon": "/assets/favicon_1765942954132.gif",
+          "enabled": true
         }
       ],
       "subCategories": []
