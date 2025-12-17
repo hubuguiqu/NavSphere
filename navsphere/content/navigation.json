@@ -112,6 +112,14 @@
           "description": "访问 cbetaonline.cn",
           "icon": "/assets/favicon_1765942121093.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765942603616_54qhd5xe9",
+          "title": "Glosbe中的语言中文，词典列表",
+          "href": "https://zh.glosbe.com/zh",
+          "description": "中文语言的信息和详细信息以及Glosbe中的词典链接",
+          "icon": "/assets/favicon_1765942587553.png",
+          "enabled": true
         }
       ],
       "subCategories": []
