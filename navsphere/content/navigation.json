@@ -517,7 +517,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765942680111_3n1o7c5wi",
+          "title": "古籍屋",
+          "href": "https://m.gujiwu.cn/yixue/61885.html",
+          "description": "访问 m.gujiwu.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.gujiwu.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
