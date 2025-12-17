@@ -250,6 +250,14 @@
           "description": "访问 nav.renzhe.xyz",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=nav.renzhe.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1765974270226_uhyjgzdt2",
+          "title": "Myip",
+          "href": "https://myip.renzhe.xyz",
+          "description": "访问 myip.renzhe.xyz",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=myip.renzhe.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
