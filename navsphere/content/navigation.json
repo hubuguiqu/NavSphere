@@ -548,6 +548,14 @@
           "description": "",
           "icon": "/assets/favicon_1765946100811.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765946134014_nnv1uvjnz",
+          "title": "Rendejiedu",
+          "href": "http://www.rendejiedu.com/category/reading",
+          "description": "访问 www.rendejiedu.com",
+          "icon": "/assets/favicon_1765946125696.png",
+          "enabled": true
         }
       ],
       "subCategories": []
