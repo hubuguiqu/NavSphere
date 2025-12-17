@@ -56,6 +56,14 @@
           "description": "访问 sink.renzhe.xyz",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=sink.renzhe.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1765940008895_sl3453xox",
+          "title": "N.renzhe",
+          "href": "http://n.renzhe.xyz",
+          "description": "访问 n.renzhe.xyz",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=n.renzhe.xyz",
+          "enabled": true
         }
       ],
       "subCategories": [
