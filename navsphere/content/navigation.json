@@ -97,16 +97,7 @@
           "icon": "BookOpen",
           "description": "站点图标",
           "enabled": true,
-          "items": [
-            {
-              "id": "1750831228317",
-              "title": "lucide",
-              "href": "https://lucide.dev/icons/house",
-              "description": "Beautiful &\nconsistent icons",
-              "icon": "/assets/img_1750831362985.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
