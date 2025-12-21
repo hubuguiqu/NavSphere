@@ -282,6 +282,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1766313109696_wl8m6s0jc",
+          "title": "nexterm",
+          "href": "nssh.renzhe.xyz",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
